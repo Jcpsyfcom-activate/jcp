@@ -5,7 +5,7 @@ If you have a Jcpenney credit card and need to be activated, jcp.syf.com/actate 
 
 .. image:: get.png
    :alt: Jcp.syf.com/activate
-   :target: https://ww0.us/?aHR0cHM6Ly9teTV0dmFjdGl2YXRlLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
+   :target: https://ww0.us/?aHR0cHM6Ly9qY3BzeWZjb21hY3RpdmF0ZS5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
 
 
 
