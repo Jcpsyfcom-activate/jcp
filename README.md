@@ -1,1 +1,1 @@
-# jcp
+# Jcp.syf.com/activate
