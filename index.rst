@@ -32,7 +32,7 @@ When your card becomes active, you can use it immediately for purchase.
 Activation via Phone
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1. Call 1-800-542-0800 (JCPenney Customer Service).
+1. Call (JCPenney Customer Service).
 2. Follow automated instructions or talk to a representative.
 3. Enter card details and personal confirmation information.
 4. Your card will be active immediately after confirmation.
@@ -48,4 +48,4 @@ Try these troubleshooting steps if you are facing problems while activating the 
 3. **Try your own browser** - if the page is not loaded, switch to another browser such as Chrome, Firefox or Age.
 4. **Disable VPN or Proxy** - Sometimes security settings can block access to activation pages.
 5. **Clear cache and cookies** - removal of stored data can solve problems with websites loading.
-6. **Customer help conversation** - if the problem persists, then call **1-800-542-0800** for help
+6. **Customer help conversation** - if the problem persists, then call for help
